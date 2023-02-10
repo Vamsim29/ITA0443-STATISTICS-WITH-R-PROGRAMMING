@@ -1,0 +1,5 @@
+ar<-airquality
+mode(ar)
+ar[,c("Solar.R")]=NULL
+ar[,c("Wind")]=NULL
+ar
