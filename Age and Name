@@ -1,0 +1,3 @@
+x<-readline(prompt = "Enter your sweet name \n")
+y<-readline(prompt = "Enter your age \n")
+paste("Student name is",x,"and age is",y)
