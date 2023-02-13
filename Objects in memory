@@ -1,0 +1,4 @@
+name<-"R programming" num<-6
+numbers<-c(12,31,42,91)
+ls()
+print(ls.str())
